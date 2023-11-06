@@ -1,0 +1,16 @@
+/* font-family: 'Righteous', sans-serif;4 */
+
+div {
+  display: flex;
+  background-color: blueviolet;
+}
+
+h1 {
+  color: white;
+  font-family: "Righteous", sans-serif;
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
