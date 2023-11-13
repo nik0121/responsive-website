@@ -53,6 +53,21 @@ button {
   background-color: white;
 }
 
+.about-content {
+   padding: 160px 20px;
+}
+.about-content h1 {
+  font-size: 56px;
+  line-height: 1;
+}
+.about-content h2 {
+  font-size: 20px;
+}
+.about-content p {
+  font-size: 16px;
+ 
+}
+
 
 /* ---------------------------*/
 
@@ -100,4 +115,8 @@ h5 {
   p {
     font-size: 16px;
   }
+  .about-content {
+    text-align: center;
+  }
 }
+
